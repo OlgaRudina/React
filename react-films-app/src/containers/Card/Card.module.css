@@ -1,0 +1,29 @@
+.Card{
+    border-width: 0.1px;
+    background-color: rgb(241, 212, 247);
+    border-style: solid;
+    display: inline-block;
+    width: 400px;
+    height: 200px;
+    padding: 10px 0 20px 0;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.Card h5{
+    text-align: center;
+}
+
+.details{
+    text-align: center;
+}
+
+.special{
+    background-color: rgb(211, 250, 174);
+}
+
+.navlink {
+    text-decoration: none;
+}
+
+
